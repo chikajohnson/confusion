@@ -10,7 +10,7 @@ class App extends Component {
       <div className="App">
         <Navbar dark color="primary">
           <div className="container">
-            <NavbarBrand href="/">Appetti Con Fusion</NavbarBrand>
+            <NavbarBrand href="/">Appetti Con Fusioning</NavbarBrand>
           </div>
         </Navbar>
       </div>
